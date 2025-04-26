@@ -1,6 +1,6 @@
 # CPSC447 Project
 
-**Toronto Neighbourhood Lens** - D3 Visualization for UBC CPSC447
+**Toronto Neighbourhood Lens (Phillip Qiao, Kuiliang Zhang, Cathryn Guo)** - D3 Visualization for UBC CPSC447
 
 Are you moving to 🇨🇦 Toronto? Where should you settle down? Explore the neighborhoods with our
 interactive map and table.
@@ -50,12 +50,12 @@ You can use VSCode Live Server extension to view the website or deploy it.
 
 Please note that if you are using VSCode Live Server to view the website, you should open the `build` folder as the root directory in VSCode. Otherwise, Live Server will consider the parent directory as the root, which may result in incorrect paths, such as faulty image links.
 
-## TA: Please Read This
+<!-- ## TA: Please Read This
 
 > [!CAUTION]
-> If you are teaching staff and have any questions regarding the index.html entry point, or if you are unable to load data and charts similar to the live demo, it is likely that you did not follow the instructions provided above correctly. Please contact Kuiliang Zhang at contact@mengxi.work for assistance.
+> Caution -->
 
-## How to deploy
+<!-- ## How to deploy
 
 ```bash
 pnpm gh-pages
@@ -63,4 +63,4 @@ pnpm gh-pages
 
 Currently, only Kuiliang Zhang has the access to deploy the website, as the script is configured to push to his GitHub Pages.
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment. We use static adapter for this project.
+> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment. We use static adapter for this project. -->
