@@ -8,7 +8,7 @@ interactive map and table.
 ![Toronto Neighbourhood Lens](./thumbnail.png)
 
 [Live Demo](https://pages.github.students.cs.ubc.ca/kzhang48/cpsc447-g15/)
-[Rriginal UBC repo](https://github.students.cs.ubc.ca/CPSC447-2024W-T2/g15/tree/build)
+[Original UBC repo](https://github.students.cs.ubc.ca/CPSC447-2024W-T2/g15/tree/build)
 
 ## Install dependencies
 
